@@ -1,0 +1,11 @@
+C:\Users\Bobibi\source\repos\EF-Studii de caz\bin\Debug\EF-Studii de caz.exe.config
+C:\Users\Bobibi\source\repos\EF-Studii de caz\bin\Debug\EF-Studii de caz.exe
+C:\Users\Bobibi\source\repos\EF-Studii de caz\bin\Debug\EF-Studii de caz.pdb
+C:\Users\Bobibi\source\repos\EF-Studii de caz\bin\Debug\EntityFramework.dll
+C:\Users\Bobibi\source\repos\EF-Studii de caz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bobibi\source\repos\EF-Studii de caz\bin\Debug\EntityFramework.xml
+C:\Users\Bobibi\source\repos\EF-Studii de caz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bobibi\source\repos\EF-Studii de caz\obj\Debug\EF-Studii de caz.csprojAssemblyReference.cache
+C:\Users\Bobibi\source\repos\EF-Studii de caz\obj\Debug\EF-Studii de caz.csproj.CopyComplete
+C:\Users\Bobibi\source\repos\EF-Studii de caz\obj\Debug\EF-Studii de caz.exe
+C:\Users\Bobibi\source\repos\EF-Studii de caz\obj\Debug\EF-Studii de caz.pdb
