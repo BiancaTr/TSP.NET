@@ -1,0 +1,9 @@
+C:\Users\Bobibi\source\repos\lab2calculator\bin\Debug\lab2calculator.exe.config
+C:\Users\Bobibi\source\repos\lab2calculator\bin\Debug\lab2calculator.exe
+C:\Users\Bobibi\source\repos\lab2calculator\bin\Debug\lab2calculator.pdb
+C:\Users\Bobibi\source\repos\lab2calculator\obj\Debug\lab2calculator.csprojAssemblyReference.cache
+C:\Users\Bobibi\source\repos\lab2calculator\obj\Debug\lab2calculator.Form1.resources
+C:\Users\Bobibi\source\repos\lab2calculator\obj\Debug\lab2calculator.Properties.Resources.resources
+C:\Users\Bobibi\source\repos\lab2calculator\obj\Debug\lab2calculator.csproj.GenerateResource.cache
+C:\Users\Bobibi\source\repos\lab2calculator\obj\Debug\lab2calculator.exe
+C:\Users\Bobibi\source\repos\lab2calculator\obj\Debug\lab2calculator.pdb

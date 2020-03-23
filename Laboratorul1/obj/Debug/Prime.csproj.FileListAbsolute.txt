@@ -1,0 +1,6 @@
+C:\Users\Bobibi\source\repos\tsp\Prime\bin\Debug\Prime.exe.config
+C:\Users\Bobibi\source\repos\tsp\Prime\bin\Debug\Prime.exe
+C:\Users\Bobibi\source\repos\tsp\Prime\bin\Debug\Prime.pdb
+C:\Users\Bobibi\source\repos\tsp\Prime\obj\Debug\Prime.csprojAssemblyReference.cache
+C:\Users\Bobibi\source\repos\tsp\Prime\obj\Debug\Prime.exe
+C:\Users\Bobibi\source\repos\tsp\Prime\obj\Debug\Prime.pdb

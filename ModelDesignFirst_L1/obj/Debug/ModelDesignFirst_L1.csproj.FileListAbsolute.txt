@@ -1,0 +1,11 @@
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.exe.config
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.exe
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.pdb
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\bin\Debug\EntityFramework.dll
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\bin\Debug\EntityFramework.xml
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.csprojAssemblyReference.cache
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.csproj.CopyComplete
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.exe
+C:\Users\Bobibi\source\repos\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.pdb
