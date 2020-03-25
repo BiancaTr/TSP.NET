@@ -1,0 +1,11 @@
+C:\Users\Bobibi\source\repos\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Bobibi\source\repos\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Bobibi\source\repos\ObjectWCF\bin\Debug\PostComment.dll
+C:\Users\Bobibi\source\repos\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\Bobibi\source\repos\ObjectWCF\bin\Debug\PostComment.pdb
+C:\Users\Bobibi\source\repos\ObjectWCF\bin\Debug\PostComment.dll.config
+C:\Users\Bobibi\source\repos\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\Bobibi\source\repos\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\Bobibi\source\repos\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\Bobibi\source\repos\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\Bobibi\source\repos\ObjectWCF\obj\Debug\ObjectWCF.pdb

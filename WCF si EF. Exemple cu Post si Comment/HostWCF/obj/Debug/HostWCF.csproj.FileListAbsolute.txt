@@ -1,0 +1,14 @@
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\HostWCF.exe.config
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\HostWCF.exe
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\HostWCF.pdb
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\ObjectWCF.dll
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\PostComment.dll
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\EntityFramework.dll
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\PostComment.pdb
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\PostComment.dll.config
+C:\Users\Bobibi\source\repos\HostWCF\bin\Debug\EntityFramework.xml
+C:\Users\Bobibi\source\repos\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+C:\Users\Bobibi\source\repos\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+C:\Users\Bobibi\source\repos\HostWCF\obj\Debug\HostWCF.exe
+C:\Users\Bobibi\source\repos\HostWCF\obj\Debug\HostWCF.pdb
