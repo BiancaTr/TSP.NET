@@ -1,0 +1,4 @@
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotos2\bin\Debug\MyPhotos2.dll
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotos2\bin\Debug\MyPhotos2.pdb
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotos2\obj\Debug\MyPhotos2.dll
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotos2\obj\Debug\MyPhotos2.pdb

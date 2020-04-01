@@ -1,0 +1,11 @@
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\bin\Debug\PhotosAPI.dll.config
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\bin\Debug\PhotosAPI.dll
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\bin\Debug\PhotosAPI.pdb
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\bin\Debug\EntityFramework.dll
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\bin\Debug\EntityFramework.xml
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\obj\Debug\PhotosAPI.csprojAssemblyReference.cache
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\obj\Debug\PhotosAPI.csproj.CopyComplete
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\obj\Debug\PhotosAPI.dll
+C:\Users\Bobibi\source\repos\MyPhotosProject\PhotosAPI\obj\Debug\PhotosAPI.pdb
