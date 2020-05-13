@@ -1,0 +1,17 @@
+C:\Users\BOBIRE\Desktop\WCF_Laborator6\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\BOBIRE\Desktop\WCF_Laborator6\PostComment\obj\Debug\PostComment.csproj.CoreCompileInputs.cache
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\PostComment.dll
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\PostComment.pdb
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\AutoMapper.dll
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\AutoMapper.pdb
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\AutoMapper.xml
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\obj\Debug\PostComment.csproj.CoreCompileInputs.cache
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\obj\Debug\PostComment.dll
+C:\Users\BOBIRE\source\repos\EFWCFASPnet\PostComment\obj\Debug\PostComment.pdb
