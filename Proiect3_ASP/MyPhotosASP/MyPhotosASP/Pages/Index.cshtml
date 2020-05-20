@@ -1,0 +1,95 @@
+﻿@page 
+@model IndexModel 
+@{
+    ViewData["Title"] = "MyPhotos Page";
+}
+<h3>Au fost gasite @Model.nrImg  imagini</h3>
+
+<body style="background-color:bisque;">
+
+   
+
+
+
+    <form>
+        <p>
+            <select asp-for="Genre" asp-items="Model.Genres">
+            </select>
+            Text: <input type="text" asp-for="SearchString" />
+            <input type="submit" value="Filter" />
+        </p>
+    </form>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Denumire
+                </th>
+                <th>
+                    Descriere
+                </th>
+                <th>
+                    Locatie
+                </th>
+                <th>
+                    Persoana
+                </th>
+                <th>
+                    Eveniment
+                </th>
+                <th>
+                    Categorie
+                </th>
+                <th>
+                    Data creare
+                </th>
+                <th>
+                    Path
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.pictures)
+            {
+                <tr style="font-size:small">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Place)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Person)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Event)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Create_Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Path)
+                    </td>
+                    <td>
+                        <a asp-page="./Details" asp-route-id="@item.Id">Details</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>

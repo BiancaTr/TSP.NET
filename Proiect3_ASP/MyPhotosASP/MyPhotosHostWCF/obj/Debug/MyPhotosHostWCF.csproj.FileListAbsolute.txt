@@ -1,0 +1,16 @@
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\MyPhotosHostWCF.exe.config
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\MyPhotosHostWCF.exe
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\MyPhotosHostWCF.pdb
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\MyPhotos2.dll
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\PhotosAPI.dll
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\EntityFramework.dll
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\MyPhotos2.pdb
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\PhotosAPI.pdb
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\PhotosAPI.dll.config
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\EntityFramework.xml
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\obj\Debug\MyPhotosHostWCF.csprojAssemblyReference.cache
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\obj\Debug\MyPhotosHostWCF.csproj.CopyComplete
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\obj\Debug\MyPhotosHostWCF.exe
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\obj\Debug\MyPhotosHostWCF.pdb
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bobibi\source\repos\MyPhotos2\MyPhotosHostWCF\bin\Debug\EntityFramework.SqlServer.xml

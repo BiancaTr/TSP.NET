@@ -1,0 +1,28 @@
+﻿@page
+@model MyPhotosASP.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+    <body style="background-color:bisque;">
+
+        <h3>@ViewData["POST"]</h3>
+
+        <h5>@Model.picture.Description</h5>
+        <h5>@Model.picture.Place</h5>
+        <h5>@Model.picture.Person</h5>
+        <h5>@Model.picture.Category</h5>
+        <h5>@Model.picture.Event</h5>
+
+
+
+        @{
+
+
+            var image = String.Format("data:image/gif;base64,{0}",
+                  Convert.ToBase64String(System.IO.File.ReadAllBytes(Model.picture.Path)));
+
+        }
+        <img src="@image" />
+
+</body>
